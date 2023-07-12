@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Plabon Mojumumder.</h1>
+<h1 align="center">Hi 👋, I'm Plabon Mojumumder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plabonmojumder&label=Profile%20views&color=0e75b6&style=flat" alt="plabonmojumder" /> </p>
@@ -17,3 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=plabonmojumder&show_icons=true&locale=en&layout=compact" alt="plabonmojumder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plabonmojumder&show_icons=true&locale=en" alt="plabonmojumder" /></p>
+
