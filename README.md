@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Plabon Mojumumder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh,</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/plabonmojumder/plabonmojumder/assets/136249429/e7077886-538a-42ff-aab8-e4e1b7881031)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/plabonmojumder/plabonmojumder/assets/136249429/94855b1c-6645-446c-a16a-a95ed4c63ba1)
 ">
 
 
