@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Plabon Mojumumder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh,</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/plabonmojumder/plabonmojumder/assets/136249429/94855b1c-6645-446c-a16a-a95ed4c63ba1)
-">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plabonmojumder&label=Profile%20views&color=0e75b6&style=flat" alt="plabonmojumder" /> </p>
